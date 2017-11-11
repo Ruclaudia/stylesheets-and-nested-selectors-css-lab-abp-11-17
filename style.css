@@ -14,8 +14,9 @@ header {
   margin: 40px 0 0 0;
   }
 
-  ul li {
-    li display: right margin: 10px
+  nav ul li {
+    display: inline;
+    margin-right: 10px;
   }
 
   nav a {
